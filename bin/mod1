@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+
+import mod1
+mod1.test()
+
+
